@@ -23,7 +23,9 @@ squirtle
 
 # Object Localization task:
 
-## Task 1-locating the charizard in a dark background with resizing and flip transformations:
+## Task 1
+
+## locating the charizard in a dark background with resizing and flip transformations:
 
 
 ![dark_background](https://github.com/Santiagor2230/VGG16-Object_Localization/assets/52907423/58a1e448-c840-4cb5-a201-391ebff86071)
